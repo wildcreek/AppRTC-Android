@@ -1,6 +1,4 @@
-
-## Source code directories
-WebRTC Android Example 源码位置
+##WebRTC Android Example 源码位置
 
 + WebRTC Native API:https://webrtc.googlesource.com/src/+/master/sdk/android/api/org/webrtc
 + 接口实现：https://webrtc.googlesource.com/src/+/master/sdk/android/src/java/org/webrtc
