@@ -10,7 +10,7 @@ android {
         versionCode rootProject.ext.releaseVersionCode
         versionName rootProject.ext.releaseVersionName
         applicationId "org.appspot.apprtc"
-        multiDexEnabled true
+        multiDexEnabled false
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
